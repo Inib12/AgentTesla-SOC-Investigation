@@ -74,7 +74,7 @@ Once executed, the malware:
 ### Risk Rating
 > ⚠️ **HIGH** — Execution of this payload would result in silent credential theft, browser session hijacking, and lateral network penetration.
 
-📄 [View Full Phishing Analysis Report](./01_Phishing_Analysis/Globex_Phishing_Email_Analysis.pdf)
+📄 [View Full Phishing Analysis Report](./01_Phishing_Analysis/Globex_Phishing_Email_Analysis_Report.pdf)
 
 ---
 
@@ -119,7 +119,7 @@ Once executed, the malware:
 | 10 | 21:41:08 | KL_ keylogger file uploaded — secondary exfiltration complete |
 | 11 | Post 21:41:08 | No further traffic observed in PCAP window |
 
-📄 [View Full Network Analysis Report](./02_Network_Analysis/Globex_Network_Traffic_Analysis.pdf)
+📄 [View Full Network Analysis Report](./02_Network_Analysis/Globex_Network_Traffic_Analysis_Report.pdf)
 
 ---
 
@@ -193,9 +193,9 @@ Once executed, the malware:
 
 | File | Description |
 |---|---|
-| [Phishing Analysis Report](./01_Phishing_Analysis/Globex_Phishing_Email_Analysis.pdf) | Full Phase 1 investigation report |
-| [Network Analysis Report](./02_Network_Analysis/Globex_Network_Traffic_Analysis.pdf) | Full Phase 2 investigation report |
-| [Executive Summary Deck](./03_Executive_Summary/Globex_SOC_Executive_Summary.pptx) | 8-slide presentation for stakeholders |
+| [Phishing Analysis Report](./01_Phishing_Analysis/Globex_Phishing_Email_Analysis_Report.pdf) | Full Phase 1 investigation report |
+| [Network Analysis Report](./02_Network_Analysis/Globex_Network_Traffic_Analysis_Report.pdf) | Full Phase 2 investigation report |
+| [Executive Summary Deck](./03_Executive_Summary/Globex_SOC_Executive_Summary.pdf) | 8-slide presentation for stakeholders |
 | [IOC Summary Table](./04_IOC_Summary/IOC_Summary_Table.xlsx) | Consolidated IOC reference document |
 
 ---
