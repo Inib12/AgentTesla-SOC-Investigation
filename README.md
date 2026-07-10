@@ -203,4 +203,4 @@ Once executed, the malware:
 > *This project was completed as part of the AltSchool Africa cybersecurity curriculum.*
 >
 
-Submitted by: Iniobong Johnson · Inib12
+Created by: Iniobong Johnson · Inib12
